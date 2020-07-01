@@ -1,0 +1,196 @@
+---
+
+R1:
+    hostname: 192.168.31.101
+    groups:
+        - cisco_group
+
+
+
+R2:
+    hostname: 192.168.31.102
+    groups:
+        - cisco_group
+
+
+
+R3:
+    hostname: 192.168.31.103
+    groups:
+        - cisco_group
+
+
+
+R4:
+    hostname: 192.168.31.104
+    groups:
+        - cisco_group
+
+
+
+R5:
+    hostname: 192.168.31.105
+    groups:
+        - cisco_group
+
+
+
+R6:
+    hostname: 192.168.31.106
+    groups:
+        - cisco_group
+
+
+R7:
+    hostname: 192.168.31.107
+    groups:
+        - cisco_group
+
+
+
+R8:
+    hostname: 192.168.31.108
+    groups:
+        - cisco_group
+
+
+
+R9:
+    hostname: 192.168.31.109
+    groups:
+        - cisco_group
+
+
+
+
+R10:
+    hostname: 192.168.31.110
+    groups:
+        - cisco_group
+
+
+
+
+R11:
+    hostname: 192.168.31.111
+    groups:
+        - cisco_group
+
+
+
+
+R12:
+    hostname: 192.168.31.112
+    groups:
+        - cisco_group
+
+
+
+
+R13:
+    hostname: 192.168.31.113
+    groups:
+        - cisco_group
+
+
+
+
+R14:
+    hostname: 192.168.31.114
+    groups:
+        - cisco_group
+
+
+
+
+R15:
+    hostname: 192.168.31.115
+    groups:
+        - cisco_group
+
+
+
+
+R16:
+    hostname: 192.168.31.116
+    groups:
+        - cisco_group
+
+
+
+
+R17:
+    hostname: 192.168.31.117
+    groups:
+        - cisco_group
+
+
+
+
+R18:
+    hostname: 192.168.31.118
+    groups:
+        - cisco_group
+
+
+
+
+R19:
+    hostname: 192.168.31.119
+    groups:
+        - cisco_group
+
+
+
+
+R20:
+    hostname: 192.168.31.120
+    groups:
+        - cisco_group
+
+
+
+
+R21:
+    hostname: 192.168.31.121
+    groups:
+        - cisco_group
+
+
+
+R22:
+    hostname: 192.168.31.122
+    groups:
+        - cisco_group
+
+
+
+
+R23:
+    hostname: 192.168.31.123
+    groups:
+        - cisco_group
+
+
+
+
+R24:
+    hostname: 192.168.31.124
+    groups:
+        - cisco_group
+
+
+
+
+R25:
+    hostname: 192.168.31.125
+    groups:
+        - cisco_group
+
+
+
+
+R26:
+    hostname: 192.168.31.126
+    groups:
+        - cisco_group
